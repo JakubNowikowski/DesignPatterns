@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1C2D71E1-40EB-4D13-BA8E-311BCAC5A7A1}</ProjectGuid>
+    <ProjectGuid>{20E6F67A-E5C3-4CF1-BE83-E99F2B9D4644}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>IObservableWeather</RootNamespace>
     <AssemblyName>IObservableWeather</AssemblyName>

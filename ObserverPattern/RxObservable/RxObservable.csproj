@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{911BA4D3-D22B-49D9-93BA-C1E810F16A54}</ProjectGuid>
+    <ProjectGuid>{2D9B511A-AB77-47B7-B9AA-6636A4A2E6F1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>RxObservable</RootNamespace>
     <AssemblyName>RxObservable</AssemblyName>

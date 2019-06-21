@@ -5,3 +5,10 @@ C:\Users\XIJNOWIK\source\repos\ObserverPattern\ObserverPattern\obj\Debug\Observe
 C:\Users\XIJNOWIK\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
 C:\Users\XIJNOWIK\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
 C:\Users\XIJNOWIK\source\repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\ObserverPattern\SimpleObserver\bin\Debug\ObserverPattern.exe.config
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\ObserverPattern\SimpleObserver\bin\Debug\ObserverPattern.exe
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\ObserverPattern\SimpleObserver\bin\Debug\ObserverPattern.pdb
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\ObserverPattern\SimpleObserver\obj\Debug\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\ObserverPattern\SimpleObserver\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\ObserverPattern\SimpleObserver\obj\Debug\ObserverPattern.exe
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\ObserverPattern\SimpleObserver\obj\Debug\ObserverPattern.pdb

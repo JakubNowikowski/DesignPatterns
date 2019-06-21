@@ -1,7 +1,0 @@
-C:\Users\XIJNOWIK\source\repos\ObserverPattern\IObservable\bin\Debug\IObservable.exe.config
-C:\Users\XIJNOWIK\source\repos\ObserverPattern\IObservable\bin\Debug\IObservable.exe
-C:\Users\XIJNOWIK\source\repos\ObserverPattern\IObservable\bin\Debug\IObservable.pdb
-C:\Users\XIJNOWIK\source\repos\ObserverPattern\IObservable\obj\Debug\IObservable.csprojAssemblyReference.cache
-C:\Users\XIJNOWIK\source\repos\ObserverPattern\IObservable\obj\Debug\IObservable.csproj.CoreCompileInputs.cache
-C:\Users\XIJNOWIK\source\repos\ObserverPattern\IObservable\obj\Debug\IObservable.exe
-C:\Users\XIJNOWIK\source\repos\ObserverPattern\IObservable\obj\Debug\IObservable.pdb

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{83278C76-8651-40D0-9B84-F8B1BD14BCBD}</ProjectGuid>
+    <ProjectGuid>{FD93F5C5-C2A9-45B6-B24B-82335244E964}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ObserverPattern</RootNamespace>
     <AssemblyName>ObserverPattern</AssemblyName>
