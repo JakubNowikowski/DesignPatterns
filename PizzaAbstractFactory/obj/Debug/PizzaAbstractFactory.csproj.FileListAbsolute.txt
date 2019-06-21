@@ -1,0 +1,7 @@
+C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.csprojAssemblyReference.cache
+C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaAbstractFactory\bin\Debug\PizzaAbstractFactory.exe.config
+C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaAbstractFactory\bin\Debug\PizzaAbstractFactory.exe
+C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaAbstractFactory\bin\Debug\PizzaAbstractFactory.pdb
+C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.exe
+C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.pdb
