@@ -5,3 +5,10 @@ C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\obj\Debug\PizzaFactoryM
 C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\obj\Debug\PizzaFactoryMethod.csproj.CoreCompileInputs.cache
 C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\obj\Debug\PizzaFactory.exe
 C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\obj\Debug\PizzaFactory.pdb
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\PizzaFactory\bin\Debug\PizzaFactory.exe.config
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\PizzaFactory\bin\Debug\PizzaFactory.exe
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\PizzaFactory\bin\Debug\PizzaFactory.pdb
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\PizzaFactory\obj\Debug\PizzaFactoryMethod.csprojAssemblyReference.cache
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\PizzaFactory\obj\Debug\PizzaFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\PizzaFactory\obj\Debug\PizzaFactory.exe
+C:\Users\XIJNOWIK\source\repos\DesignPatterns\PizzaFactory\obj\Debug\PizzaFactory.pdb
