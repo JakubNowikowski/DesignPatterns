@@ -261,25 +261,25 @@ namespace PrototypePattern
 		{
 			////ICloneable
 
-			//Person person = new Person("Tom", new Address("xd", 13));
+			//Person person = new Person("Tom", new Address("test", 13));
 			//Person newPerson = (Person)person.Clone();
 			//newPerson.Address.HouseNumber = 11;
 
 			////Copy Constructor
 
-			//Person person = new Person("Tom", new Address("xd", 13));
+			//Person person = new Person("Tom", new Address("test", 13));
 			//Person newPerson = new Person(person);
 			//newPerson.Address.HouseNumber = 11;
 
 			////Deep Copy Interface
 
-			//Person person = new Person("Tom", new Address("xd", 13));
+			//Person person = new Person("Tom", new Address("test", 13));
 			//Person newPerson = person.DeepCopy();
 			//newPerson.Address.HouseNumber = 11;
 
 			////Serialization
 
-			Person person = new Person("Tom", new Address("xd", 13));
+			Person person = new Person("Tom", new Address("test", 13));
 			//Person newPerson = person.DeepCopyBinarySerializer();
 			Person newPerson = person.DeepCopyXMLSerializer();
 			newPerson.Address.HouseNumber = 11;
