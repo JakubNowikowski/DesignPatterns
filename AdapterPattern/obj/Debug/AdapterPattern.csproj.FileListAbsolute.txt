@@ -1,0 +1,7 @@
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\AdapterPattern\obj\Debug\AdapterPattern.pdb
