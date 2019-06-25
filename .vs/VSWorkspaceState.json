@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ObserverPattern\\IObservableWeather"
   ],
+  "SelectedNode": "\\Composite",
   "PreviewInSolutionExplorer": false
 }
