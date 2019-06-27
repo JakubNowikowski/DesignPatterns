@@ -19,3 +19,10 @@ C:\Users\XIJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactor
 C:\Users\XIJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.csproj.CoreCompileInputs.cache
 C:\Users\XIJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.exe
 C:\Users\XIJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.pdb
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactory\bin\Debug\PizzaAbstractFactory.exe.config
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactory\bin\Debug\PizzaAbstractFactory.exe
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactory\bin\Debug\PizzaAbstractFactory.pdb
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.exe
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\PizzaAbstractFactory\obj\Debug\PizzaAbstractFactory.pdb

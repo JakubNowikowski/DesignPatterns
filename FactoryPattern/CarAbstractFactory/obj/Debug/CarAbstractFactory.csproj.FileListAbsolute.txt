@@ -26,3 +26,10 @@ C:\Users\XIJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\
 C:\Users\XIJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\obj\Debug\CarAbstractFactory.csproj.CoreCompileInputs.cache
 C:\Users\XIJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\obj\Debug\CarAbstractFactory.exe
 C:\Users\XIJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\obj\Debug\CarAbstractFactory.pdb
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\bin\Debug\CarAbstractFactory.exe.config
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\bin\Debug\CarAbstractFactory.exe
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\bin\Debug\CarAbstractFactory.pdb
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\obj\Debug\CarAbstractFactory.csprojAssemblyReference.cache
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\obj\Debug\CarAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\obj\Debug\CarAbstractFactory.exe
+C:\Users\IOJNOWIK\source\repos\DesignPatterns\FactoryPattern\CarAbstractFactory\obj\Debug\CarAbstractFactory.pdb

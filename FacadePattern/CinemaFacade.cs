@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FacadePattern
 {
-    public class CinemaFacade
+    public class CinemaFacade: IFacade
     {
         Lights lights = new Lights();
         Speakers speakers = new Speakers();

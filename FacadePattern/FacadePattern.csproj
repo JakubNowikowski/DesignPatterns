@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CinemaFacade.cs" />
+    <Compile Include="IFacade.cs" />
     <Compile Include="Lights.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Projector.cs" />
