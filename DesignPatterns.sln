@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectionProxy", "Protecti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{B378B51A-8609-4FBB-99D9-D0E02920C327}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{9D056667-9BC9-4321-A124-A25BB5AB6D02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Command", "Command", "{3C662955-4C67-446F-965D-ED2DE3C7788B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +155,10 @@ Global
 		{B378B51A-8609-4FBB-99D9-D0E02920C327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B378B51A-8609-4FBB-99D9-D0E02920C327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B378B51A-8609-4FBB-99D9-D0E02920C327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D056667-9BC9-4321-A124-A25BB5AB6D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D056667-9BC9-4321-A124-A25BB5AB6D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D056667-9BC9-4321-A124-A25BB5AB6D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D056667-9BC9-4321-A124-A25BB5AB6D02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -175,6 +183,7 @@ Global
 		{4C926D5D-2B1B-47E3-B04B-5B56680DB6E0} = {FE39C43B-D412-4002-A873-0E23F3D425F3}
 		{0B385626-71A3-49BB-AEEE-CCD9173CE019} = {4767E714-FEDC-47DB-B658-B479A07E8A3E}
 		{5E7F9EFB-BDAC-4065-984F-8F2359273BE3} = {65039A0F-31E1-4F23-8841-537FCDEDE557}
+		{9D056667-9BC9-4321-A124-A25BB5AB6D02} = {3C662955-4C67-446F-965D-ED2DE3C7788B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {70EECE40-E901-4641-87E0-5B7DABFE3EAE}
