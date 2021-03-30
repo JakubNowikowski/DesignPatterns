@@ -1,7 +1,0 @@
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe.config
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.exe
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\StrategyPattern\bin\Debug\StrategyPattern.pdb
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.exe
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\StrategyPattern\obj\Debug\StrategyPattern.pdb

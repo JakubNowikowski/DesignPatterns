@@ -1,7 +1,0 @@
-C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\bin\Debug\PizzaFactory.exe.config
-C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\bin\Debug\PizzaFactory.exe
-C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\bin\Debug\PizzaFactory.pdb
-C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\obj\Debug\PizzaAbstractMethodFactory.csprojAssemblyReference.cache
-C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\obj\Debug\PizzaAbstractMethodFactory.csproj.CoreCompileInputs.cache
-C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\obj\Debug\PizzaFactory.exe
-C:\Users\XIJNOWIK\source\repos\EnemyFactory\PizzaFactory\obj\Debug\PizzaFactory.pdb

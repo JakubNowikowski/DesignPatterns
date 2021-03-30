@@ -1,7 +1,0 @@
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\Proxy\bin\Debug\Proxy.exe.config
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\Proxy\bin\Debug\Proxy.exe
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\Proxy\bin\Debug\Proxy.pdb
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.exe
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\Proxy\obj\Debug\Proxy.pdb

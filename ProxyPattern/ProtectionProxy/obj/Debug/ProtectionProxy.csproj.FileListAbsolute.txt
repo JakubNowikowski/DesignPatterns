@@ -1,7 +1,0 @@
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\ProtectionProxy\bin\Debug\ProtectionProxy.exe.config
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\ProtectionProxy\bin\Debug\ProtectionProxy.exe
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\ProtectionProxy\bin\Debug\ProtectionProxy.pdb
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\ProtectionProxy\obj\Debug\ProtectionProxy.csprojAssemblyReference.cache
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\ProtectionProxy\obj\Debug\ProtectionProxy.csproj.CoreCompileInputs.cache
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\ProtectionProxy\obj\Debug\ProtectionProxy.exe
-C:\Users\IOJNOWIK\source\repos\DesignPatterns\ProtectionProxy\obj\Debug\ProtectionProxy.pdb

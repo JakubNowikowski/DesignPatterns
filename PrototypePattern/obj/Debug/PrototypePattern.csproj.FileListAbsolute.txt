@@ -1,7 +1,0 @@
-C:\Users\XIJNOWIK\source\repos\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe.config
-C:\Users\XIJNOWIK\source\repos\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.exe
-C:\Users\XIJNOWIK\source\repos\PrototypePattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
-C:\Users\XIJNOWIK\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.csprojAssemblyReference.cache
-C:\Users\XIJNOWIK\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.csproj.CoreCompileInputs.cache
-C:\Users\XIJNOWIK\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.exe
-C:\Users\XIJNOWIK\source\repos\PrototypePattern\PrototypePattern\obj\Debug\PrototypePattern.pdb
