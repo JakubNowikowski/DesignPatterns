@@ -362,3 +362,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 ToBeIgnored
+ToBeIgnored/
+/ToBeIgnored/
+ToBeIgnored/*
+/ToBeIgnored/*
